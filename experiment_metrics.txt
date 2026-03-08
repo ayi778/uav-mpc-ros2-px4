@@ -1,0 +1,8 @@
+========== UAV MPC Tracking Metrics ==========
+Overall RMSE : 0.7122 m
+Max Error    : 4.6880 m
+Mean Error   : 0.3932 m
+X-axis RMSE  : 0.1947 m
+Y-axis RMSE  : 0.2162 m
+Z-axis RMSE  : 0.6501 m
+==============================================
